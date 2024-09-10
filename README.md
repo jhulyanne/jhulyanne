@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+    <img alt="logo PdA" src="assets/imgs/readme/logo_PdA.png" height="80px" widgh="auto">
+</div>
 
-<!--
-**jhulyanne/jhulyanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Projeto [M1] - Quiz</h1>
 
-Here are some ideas to get you started:
+<p align="center">🚧 Projeto em construção 🚧</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Desenvolvedores
+
+- Líder: Eric - [GitHub](https://github.com/ericshantos) | [LinkedIn](https://www.linkedin.com/)
+- desenvolvedor(a): Andrei - [GitHub](https://github.com/AndreiMoreira7) | [LinkedIn](https://www.linkedin.com/)
+- desenvolvedor(a): Jhulyanne - [GitHub](https://github.com/jhulyanne) | [LinkedIn](https://www.linkedin.com/in/jhulyanne-oliveira/)
+- desenvolvedor(a): Matheus- [GitHub](https://github.com/matheusdesaaguiar) | [LinkedIn](https://www.linkedin.com/)
+- desenvolvedor(a): Mickael - [GitHub](https://github.com/mickael8244) | [LinkedIn](https://www.linkedin.com/)
