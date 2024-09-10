@@ -8,8 +8,19 @@
 
 ## Desenvolvedores
 
-- Líder: Eric - [GitHub](https://github.com/ericshantos) | [LinkedIn](https://www.linkedin.com/)
-- desenvolvedor(a): Andrei - [GitHub](https://github.com/AndreiMoreira7) | [LinkedIn](https://www.linkedin.com/)
-- desenvolvedor(a): Jhulyanne - [GitHub](https://github.com/jhulyanne) | [LinkedIn](https://www.linkedin.com/in/jhulyanne-oliveira/)
-- desenvolvedor(a): Matheus- [GitHub](https://github.com/matheusdesaaguiar) | [LinkedIn](https://www.linkedin.com/)
-- desenvolvedor(a): Mickael - [GitHub](https://github.com/mickael8244) | [LinkedIn](https://www.linkedin.com/)
+| Nome | Função | GitHub | LinkedIn |
+|-------------|-------------|-------------|-------------|
+| Eric | Líder | https://github.com/ericshantos | https://www.linkedin.com/ |
+
+|-------------|-------------|-------------|-------------|
+|-------------|-------------|-------------|-------------|
+|-------------|-------------|-------------|-------------|
+|-------------|-------------|-------------|-------------|
+
+
+-->
+| Líder:  - [GitHub](https://github.com/ericshantos) | [LinkedIn](https://www.linkedin.com/)
+| desenvolvedor(a) | Andrei - [GitHub](https://github.com/AndreiMoreira7) | [LinkedIn](https://www.linkedin.com/)
+| desenvolvedor(a) | Jhulyanne - [GitHub](https://github.com/jhulyanne) | [LinkedIn](https://www.linkedin.com/in/jhulyanne-oliveira/)
+| desenvolvedor(a) | Matheus- [GitHub](https://github.com/matheusdesaaguiar) | [LinkedIn](https://www.linkedin.com/)
+| desenvolvedor(a) | Mickael - [GitHub](https://github.com/mickael8244) | [LinkedIn](https://www.linkedin.com/)
