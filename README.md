@@ -10,17 +10,10 @@
 
 | Nome | Função | GitHub | LinkedIn |
 |-------------|-------------|-------------|-------------|
-| Eric | Líder | https://github.com/ericshantos | https://www.linkedin.com/ |
+| Eric | Líder | https://github.com/ericshantos | https://www.linkedin.com/ | https://www.linkedin.com/ |
+| Andrei | desenvolvedor(a) | https://github.com/AndreiMoreira7 | https://www.linkedin.com/ |
+| Jhulyanne | desenvolvedor(a) | https://github.com/jhulyanne | https://www.linkedin.com/in/jhulyanne-oliveira/ |
+| Matheus | desenvolvedor(a) | https://github.com/matheusdesaaguiar | https://www.linkedin.com/ |
+| Mickael| desenvolvedor(a) | https://github.com/mickael8244 | https://www.linkedin.com/ |
 
-|-------------|-------------|-------------|-------------|
-|-------------|-------------|-------------|-------------|
-|-------------|-------------|-------------|-------------|
-|-------------|-------------|-------------|-------------|
 
-
--->
-| Líder:  - [GitHub](https://github.com/ericshantos) | [LinkedIn](https://www.linkedin.com/)
-| desenvolvedor(a) | Andrei - [GitHub](https://github.com/AndreiMoreira7) | [LinkedIn](https://www.linkedin.com/)
-| desenvolvedor(a) | Jhulyanne - [GitHub](https://github.com/jhulyanne) | [LinkedIn](https://www.linkedin.com/in/jhulyanne-oliveira/)
-| desenvolvedor(a) | Matheus- [GitHub](https://github.com/matheusdesaaguiar) | [LinkedIn](https://www.linkedin.com/)
-| desenvolvedor(a) | Mickael - [GitHub](https://github.com/mickael8244) | [LinkedIn](https://www.linkedin.com/)
