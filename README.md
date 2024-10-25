@@ -1,4 +1,5 @@
 <h1 align = "center">Mini projeto individual - [M2] - Cadastrando
+
 ## Este é um projeto do módulo 2 proposto pelo curso Desenvolvedor Full-Stack do [Programadores do Amanhã](https://programadoresdoamanha.org/)
 
 <div align = "center">
