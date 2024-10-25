@@ -13,14 +13,14 @@
 Neste projeto você deve utilizar as tecnologias **HTML, CSS & Javascript** para criar uma página de cadastro.
 
 ### 🎯 **Requisitos:**
-● Construa um site de cadastro;
-● As tecnologias usadas devem ser HTML, CSS & Javascript.
-● O site deve conter as opções de:
-    ○ Listar os dados cadastrados;
-    ○ Cadastrar um novo dado;
-    ○ Editar um dado cadastrado;
-    ○ Deletar um dado cadastrado.
-● O site não pode ter erros de sintaxe em HTML, CSS e Javascript.
-● Deve-se utilizar Arrays, Class & DOM;
-● A entrega deve ser realizada através do GitHub;
-    ○ O repositório deve conter 3+ commits.
+- Construa um site de cadastro;
+- As tecnologias usadas devem ser HTML, CSS & Javascript.
+- O site deve conter as opções de:
+    - Listar os dados cadastrados;
+    - Cadastrar um novo dado;
+    - Editar um dado cadastrado;
+    - Deletar um dado cadastrado.
+- O site não pode ter erros de sintaxe em HTML, CSS e Javascript.
+- Deve-se utilizar Arrays, Class & DOM;
+- A entrega deve ser realizada através do GitHub;
+    - O repositório deve conter 3+ commits.
