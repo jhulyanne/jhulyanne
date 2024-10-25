@@ -1,4 +1,4 @@
-#Cadastrando - [M1] - mini projeto individual
+# Cadastrando - [M1] - mini projeto individual
 <div align = "center">
     Este é um projeto proposto pelo curso Desenvolvedor Full-Stack do  [Programadores do Amanhã](https://programadoresdoamanha.org/)
 </div>
