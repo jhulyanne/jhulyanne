@@ -4,6 +4,9 @@
 
 #
 
+<h2 align="center">Hello! I'm Jhulyanne, a full-stack dev in training</h2>
+
+### My Skills
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="20" />
