@@ -1,13 +1,9 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhulyanne&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhulyanne&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jhulyanne&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhulyanne&radius=16&theme=react&area=true&order=5" height="200" alt="activity-graph graph"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/jhulyanne/jhulyanne/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
