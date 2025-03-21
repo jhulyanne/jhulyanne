@@ -5,11 +5,11 @@
 <div align="center">
 <div align="left">
   <h3>A little about me!</h3>
-  <ul>
-    <li>📍 I am from Brazil</li width="100">
-    <li>📚 I am curretnly studying back-end development with NodeJS</li width="100">
-    <li>⚒ I love to build new things and solving problems</li width="100">
-    <li>💡 I am a very creativeperson and love to learn languages such as English, Spanish, Korean and Duth (I also know a bit of Brazilian Sign Language)</li width="100">
+  <ul width="100">
+    <li>📍 I am from Brazil</li>
+    <li>📚 I am curretnly studying back-end development with NodeJS</li>
+    <li>⚒ I love to build new things and solving problems</li>
+    <li>💡 I am a very creativeperson and love to learn languages such as English, Spanish, Korean and Duth (I also know a bit of Brazilian Sign Language)</li>
   </ul>
 </div>
 <div align="right">
