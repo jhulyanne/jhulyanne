@@ -9,7 +9,7 @@
     <p>📍 I am from Brazil</p>
     <p>📚 I am curretnly studying back-end development with NodeJS</p>
     <p>⚒ I love to build new things and solving problems</p>
-    <p>💡 I am a very creativeperson and love to learn languages such as English, Spanish, Korean and Duth (I also know a bit of Brazilian Sign Language)</p>
+    <p>💡 I am a very creative person and love to learn languages</p>
   </div>
 </div>
 <div align="right">
