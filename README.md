@@ -22,6 +22,7 @@
 ###
 
 <div align="center">
+  <h2>My skills</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
@@ -34,6 +35,9 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
   <img width="20" />
+</div>
+<div align="center">
+  <h2>Other skills</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
@@ -46,6 +50,7 @@
 ###
 
 <div align="center">
+  <h2>Contact me!</h2>
   <a href="https://www.linkedin.com/in/jhulyanne-oliveira" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
@@ -69,7 +74,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jhulyanne&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=20&order=3" height="300" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhulyanne&radius=20&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
