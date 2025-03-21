@@ -56,10 +56,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jhulyanne/jhulyanne/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jhulyanne&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=20&order=3" height="300" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhulyanne&radius=20&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
