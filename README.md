@@ -22,7 +22,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://i.pinimg.com/736x/7b/11/d8/7b11d8aabb6a0363114326c5c3b1f078.jpg"  />
+  <img height="100" src="https://i.pinimg.com/736x/8d/5d/08/8d5d08474b8cc1226e8787e2c354636e.jpg"  />
 </div>
 
 ###
