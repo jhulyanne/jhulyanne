@@ -22,6 +22,12 @@
 ###
 
 <div align="center">
+  <img height="150" src="https://i.pinimg.com/originals/45/c1/fc/45c1fcf4aaae94a8ab0015e186070d22.gif"  />
+</div>
+
+###
+
+<div align="center">
   <h2>My skills</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="20" />
@@ -36,6 +42,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
   <img width="20" />
 </div>
+
+##
+
 <div align="center">
   <h2>Other skills</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
