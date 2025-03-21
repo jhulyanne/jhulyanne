@@ -5,12 +5,12 @@
 <div align="center">
 <div align="left">
   <h3>A little about me!</h3>
-  <ul width="100">
-    <li>📍 I am from Brazil</li>
-    <li>📚 I am curretnly studying back-end development with NodeJS</li>
-    <li>⚒ I love to build new things and solving problems</li>
-    <li>💡 I am a very creativeperson and love to learn languages such as English, Spanish, Korean and Duth (I also know a bit of Brazilian Sign Language)</li>
-  </ul>
+  <div width="100">
+    <p>📍 I am from Brazil</p>
+    <p>📚 I am curretnly studying back-end development with NodeJS</p>
+    <p>⚒ I love to build new things and solving problems</p>
+    <p>💡 I am a very creativeperson and love to learn languages such as English, Spanish, Korean and Duth (I also know a bit of Brazilian Sign Language)</p>
+  </div>
 </div>
 <div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=jhulyanne&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true" height="140" alt="stats graph" /> <br>
