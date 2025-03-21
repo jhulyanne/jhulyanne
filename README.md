@@ -19,13 +19,7 @@
   </div>
 </div>
 
-###
-
-<div align="center">
-  <img height="100" src="https://i.pinimg.com/736x/8d/5d/08/8d5d08474b8cc1226e8787e2c354636e.jpg"  />
-</div>
-
-###
+#
 
 <div align="center">
   <h2>My skills</h2>
