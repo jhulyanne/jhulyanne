@@ -59,10 +59,3 @@
 <img src="https://raw.githubusercontent.com/jhulyanne/jhulyanne/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhulyanne&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="300" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhulyanne&radius=16&theme=redical&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
-
-###
