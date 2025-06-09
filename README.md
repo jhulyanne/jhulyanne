@@ -20,10 +20,10 @@
 
 ###
 
-<p align="left">Desenvolvedora full-stack em formação. Atualmente, estudos focados em desenvolvimento back-end, mas interesse crescente em engenharia de dados. <br><br>Acredito muito no poder da tecnologia para criar soluções inclusivas e de impacto social. Mais do que código, quero ser capaz de constuir soluções acolhedoras, inclusivas e úteis.</p>
-
-Minha jornada no código começou no início de 2024 e, desde então, venho aprendendo de forma autodidata e também através de cursos online. 
-estou explorando a área de dados. Sou uma pessoa curiosa, apaixonada por aprender e compartilhar conhecimento. 
+<p align="left">Desenvolvedora full-stack em formação. Atualmente, estudos focados em desenvolvimento back-end, mas interesse crescente em engenharia de dados. <br><br>
+  Acredito muito no poder da tecnologia para criar soluções inclusivas e de impacto social. Mais do que código, quero ser capaz de constuir soluções acolhedoras, inclusivas e úteis. <br></br>
+  Tenho inglês intermediário/B2, e estudo outros idiomas por hobby, como Holandês/Neerlandês, coreano e LIBRAS.
+</p>
 
 ###
 
