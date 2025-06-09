@@ -4,15 +4,15 @@
 
 ###
 
-<h2 align="center">Olá! Eu sou a Jhulyanne👋</h2>
+<h1 align="center">Olá! Eu sou a Jhulyanne👋</h1>
 
 ###
 
-<h4 align="center">Desenvolvedora full-stack com foco back-end em formação <br>Apaixonada por dados e impacto social</h4>
+<h3 align="center">Desenvolvedora full-stack com foco back-end em formação <br>Apaixonada por dados e impacto social</h3>
 
 ###
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+<h2 align="center">👩‍💻  Sobre mim</h2>
 
 ###
 
@@ -24,19 +24,7 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitch logo"  />
-</div>
-
-###
-
-<h3 align="left">🛠️ Tecnologias</h3>
+<h2 align="center">🛠️ Tecnologias</h2>
 
 ###
 
@@ -52,6 +40,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+</div>
+
+###
+
+<h2 align="center">📫 Contato</h2>
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitch logo"  />
 </div>
 
 ###
