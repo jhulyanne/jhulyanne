@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="center">Estudante de Análise e Desenvolvimento de Sistemas <br>Desenvolvedora full-stack com foco back-end em formação <br>Apaixonada por dados e impacto social</h4>
+<h4 align="center">Estudante de Análise e Desenvolvimento de Sistemas <br>Apaixonada por dados e impacto social</h4>
 
 ###
 
