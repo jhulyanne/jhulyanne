@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Desenvolvedora full-stack em formação. Atualmente, estudos focados em desenvolvimento back-end, mas interesse crescente em engenharia de dados. <br><br>
+<p align="left">Desenvolvedora full-stack em formação. Atualmente, estudos focados em desenvolvimento back-end, mas interesse crescente em web design e engenharia de dados. <br><br>
   Acredito muito no poder da tecnologia para criar soluções inclusivas e de impacto social. Mais do que código, quero ser capaz de constuir soluções acolhedoras, inclusivas e úteis. <br></br>
   Tenho inglês intermediário/B2, e estudo outros idiomas por hobby, como Holandês/Neerlandês, coreano e LIBRAS.
 </p>
