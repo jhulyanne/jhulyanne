@@ -34,7 +34,7 @@
 <h4 align="center">⋆</h4>
 
 <div align="center">
-  <h3>˚.💻༘⋆ Stacks</h3>
+  <h3>˚.💻༘⋆ Trabalho ou já trabalhei com </h3>
 
 #### Linguagens
 
