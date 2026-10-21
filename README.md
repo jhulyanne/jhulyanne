@@ -3,12 +3,17 @@
 </div>
 
 ###
+
 <h2 align="center">Olá! Eu sou a Jhulyanne👋</h2>
 <p align="center">Sou estudante de Análise e Desenvolvimento de Sistemas e atuo como estagiária highcode, onde venho aprimorando minhas experiências em aplicações web e mobile, integração com APIs e bancos de dados relacionais. Tenho interesse em desenvolvimento back-end e engenharia de dados, buscando aprimorar continuamente minhas habilidades e construir soluções eficientes e bem estruturadas.</p>
+
 ###
 
-## 🌐 Socials:
+<h2 align="center">🌐 Você também pode me encontrar aqui:</h2>
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jhulyanne.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jhulyanne-oliveira) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/jhulyanneo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jhulyanne.o) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ojhulyanne@gmail.com) 
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=jhulyanne&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=jhulyanne&theme=transparent&hide_border=false)<br/>
