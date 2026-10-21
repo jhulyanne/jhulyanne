@@ -7,10 +7,10 @@
 <div align="center">
 <h3>Olá! Eu sou a Jhulyanne 👋</h3>
 
-.˚₊‧༉︶︶︶︶︶︶︶︶︶︶︶🌼︶︶︶︶︶︶︶︶︶︶︶༉‧₊˚.
+.˚₊‧༉︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶🌼︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶︶༉‧₊˚.
 
 
-<p>Sou estudante de <b>Análise e Desenvolvimento de Sistemas</b> e atuo como <b>estagiária highcode</b>, onde venho aprimorando minhas experiências em <b>aplicações web e mobile, integração com APIs e bancos de dados relacionais.</b></p>
+<p>Sou estudante de <b>Análise e Desenvolvimento de Sistemas</b> e atuo como <b>estagiária em desenvolvimento highcode</b>, onde venho aprimorando minhas experiências em <b>aplicações web e mobile, integração com APIs e bancos de dados relacionais.</b></p>
 <p>Tenho interesse em desenvolvimento back-end e engenharia de dados, buscando aprimorar continuamente minhas habilidades e construir soluções eficientes e bem estruturadas.</p>
 <p>Tenho inglês intermediário/B2 e estudo outros idiomas por hobby, como Holandês/Neerlandês, Coreano e LIBRAS.<p>
 <p><a href="https://docs.google.com/document/d/1sPUaPm2NW2uzLnAsGNm7ajOu58BeT7nASj7YTt-Vt0g/edit?usp=sharing">──★˙🍓̟!! Meu currículo</a></p>
